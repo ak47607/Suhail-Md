@@ -21,7 +21,7 @@ global.github=process.env.GITHUB|| "https://github.com/SuhailTechInfo/Suhail-Md"
 global.gurl  =process.env.GURL  || "https://whatsapp.com/channel/0029Va9thusJP20yWxQ6N643";
 global.website=process.env.GURL || "https://whatsapp.com/channel/0029Va9thusJP20yWxQ6N643" ; 
 global.THUMB_IMAGE = process.env.THUMB_IMAGE || process.env.IMAGE || "https://github.com/SuhailTechInfo/Suhail-Md/blob/main/lib/assets/suhail.jpg?raw=true" ; // SET LOGO FOR IMAGE 
-global.caption = process.env.CAPTION || global.caption || "ᴘᴏᴡᴇʀᴇᴅ ʙʏ SKETOR-XD" 
+global.caption = process.env.CAPTION || global.caption || "ᴘᴏᴡᴇʀᴇᴅ ʙʏ 𐌀ӄꍏรʜ↦↦↦↦↦" 
 
 
 global.devs = "919064560840" // Developer Contact
@@ -76,8 +76,8 @@ module.exports = {
  
   author : process.env.PACK_AUTHER|| "AKASH",
   packname: process.env.PACK_NAME || "AKASH-XD",
-  botname : process.env.BOT_NAME  || "AKASH",
-  ownername:process.env.OWNER_NAME|| "AKASH",
+  botname : process.env.BOT_NAME  || "⏤͟͟͞͞★͙≛͙⃝͙♥️𐌀ӄꍏรʜ↦↦↦↦↦",
+  ownername:process.env.OWNER_NAME|| "𐌀ӄꍏรʜ↦↦↦↦↦",
 
 
   errorChat : process.env.ERROR_CHAT || "",
